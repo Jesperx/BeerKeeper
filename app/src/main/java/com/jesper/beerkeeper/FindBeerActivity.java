@@ -20,8 +20,7 @@ public class FindBeerActivity extends Activity {
 
     @BindView(R.id.color)
     Spinner color;
-
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
